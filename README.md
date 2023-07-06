@@ -1,18 +1,12 @@
 <h2 align="center">
-    ──「 Gʀᴏᴜᴘ Cᴏɴᴛʀᴏʟʟᴇʀ ダ ᴍᴜsɪᴄ 」──
+    ──「ʜᴀʏᴀᴛ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/0f758321a92a9428a6c48.jpg">
+  <img src="https://te.legra.ph/file/a0ace1d7f6662d38a17da.jpg">
 </p>
 
-<p align="center">
-<a href="https://github.com/Noob-Mukesh/Telegram-Music/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/Telegram-Music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Noob-Mukesh/Telegram-Music/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/Telegram-Music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Noob-Mukesh/Telegram-Music/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Noob-Mukesh/Telegram-Music/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/Noob-Mukesh/Telegram-Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 <p align="center">
   <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
@@ -22,7 +16,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Noob-Mukesh/Telegram-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DEADLY-X-BOTS/DEADLYMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
