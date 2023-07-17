@@ -13,7 +13,7 @@ from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
 from pyrogram import filters
 
-from  config import OWNER_ID
+from  config import (OWNER_ID, UPSTREAM_BRANCH)
 from strings import get_command
 from AnonX import app
 from AnonX.misc import HAPP, SUDOERS, XCB
