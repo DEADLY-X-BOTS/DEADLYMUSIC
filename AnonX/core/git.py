@@ -58,7 +58,7 @@ def git():
             origin.refs[config.UPSTREAM_BRANCH],
         )
         repo.heads[config.UPSTREAM_BRANCH].set_tracking_branch(
-            origin.refs[https://github.com/DEADLY-X-BOTS/DEADLYMUSIC]
+            origin.refs[config.UPSTREAM_BRANCH],
         )
         repo.heads[config.UPSTREAM_BRANCH].checkout(True)
         try:
